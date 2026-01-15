@@ -1,4 +1,4 @@
-public class incrementDecrement {
+public class P2_incrementDecrement {
     public static void main(String[] args) {
         int a = 5;
         System.out.println("Initial value of a: " + a);
